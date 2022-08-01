@@ -12,14 +12,16 @@ The capstone will build upon the knowledge you have gained in the course in orde
 
 ## Evidences
 
-| About                      | Evidence                                                                        |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| Tokens                     | https://rinkeby.etherscan.io/token/0x7bC8ff8baF6cD09884A275eCe0ff00889263FCba   |
-| SolnSquareVerifier         | https://rinkeby.etherscan.io/address/0x7bC8ff8baF6cD09884A275eCe0ff00889263FCba |
-| Verifier                   | https://rinkeby.etherscan.io/address/0xdcC059e66A15AccdB494112FACacC25102685c0f |
-| Owner account              | 0x58cc7Dc37886f55160Bd3775F42411dF87af3252                                      |
-| Account that bought 5 NFTs | 0x2513918b3B62144127887744A7E76654f6f46b18                                      |
-| Opensea StoreFront         | https://testnets.opensea.io/collection/ptok                                     |
+| About                      | Evidence                                                                                                                |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Tokens                     | https://rinkeby.etherscan.io/token/0x7bC8ff8baF6cD09884A275eCe0ff00889263FCba                                           |
+| SolnSquareVerifier         | https://rinkeby.etherscan.io/address/0x7bC8ff8baF6cD09884A275eCe0ff00889263FCba                                         |
+| Verifier                   | https://rinkeby.etherscan.io/address/0xdcC059e66A15AccdB494112FACacC25102685c0f                                         |
+| Owner account              | 0x58cc7Dc37886f55160Bd3775F42411dF87af3252                                                                              |
+| Account that bought 5 NFTs | 0x2513918b3B62144127887744A7E76654f6f46b18                                                                              |
+| Opensea StoreFront         | https://testnets.opensea.io/collection/ptok                                                                             |
+| SolnSquareVerifier ABI     | https://github.com/rajkumarwaghmare/Blockchain-Capstone/blob/main/eth-contracts/build/contracts/SolnSquareVerifier.json |
+| Verifier ABI               | https://github.com/rajkumarwaghmare/Blockchain-Capstone/blob/main/eth-contracts/build/contracts/Verifier.json           |
 
 ### NOTE
 
